@@ -1,0 +1,23 @@
+{
+  "name": "jmarshall",
+  "version": "1.0.0",
+  "description": "nodeserver",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^2.2.29"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordmarsh/nodeserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordmarsh/nodeserver/issues"
+  },
+  "homepage": "https://github.com/jordmarsh/nodeserver#readme"
+}
